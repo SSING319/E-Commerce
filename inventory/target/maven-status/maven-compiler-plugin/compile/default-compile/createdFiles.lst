@@ -1,0 +1,8 @@
+com\shop\inventory\InventoryApplication.class
+com\shop\inventory\model\Inventory$InventoryBuilder.class
+com\shop\inventory\dto\InventoryResponse.class
+com\shop\inventory\controller\InventoryController.class
+com\shop\inventory\model\Inventory.class
+com\shop\inventory\repo\InventoryRepo.class
+com\shop\inventory\dto\InventoryResponse$InventoryResponseBuilder.class
+com\shop\inventory\service\InventoryService.class
